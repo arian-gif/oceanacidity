@@ -1,10 +1,4 @@
-/*
-Name: Arian khan 
-Program Creation Date: 04/27/2022
-Program Name: Ocean Acidification
-Program Description: The Ocean program implements an application that reads,from file and calculates the average and percentage, difference of Ocean statistics.
-Last Edit date:04/30/2022
-*/
+
 //add imports
 import java.util.*;
 import java.io.*;
